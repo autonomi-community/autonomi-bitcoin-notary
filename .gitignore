@@ -1,0 +1,18 @@
+# Сигурност и тайни
+.env
+*.key
+*.state.json
+.*.state.json
+
+# Временни и виртуални среди
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build/
+*.spec
+
+# Тестови файлове и доказателства
+*.ots
+*.bin

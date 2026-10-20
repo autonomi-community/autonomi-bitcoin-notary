@@ -1,0 +1,4 @@
+PySide6>=6.5
+opentimestamps>=0.4.5
+certifi
+pyinstaller>=6.0
